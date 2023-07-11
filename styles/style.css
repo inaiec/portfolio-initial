@@ -152,4 +152,7 @@ body{
         margin-left: 3%;        
     }
 
+    .apresentacao__links__navegacao{
+        width: 75% ;        
+    }
 }
